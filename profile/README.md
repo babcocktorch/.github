@@ -14,12 +14,17 @@
 
 &nbsp;
 
+# The Babcock Torch
+
 The Babcock Torch is...
 
 ## Our Projects
 
 ### The Babcock Torch
 The University Daily, Est. 2025
+
+### Student Blogs on The Babcock Torch
+A place for...
 
 ## Tentative Projects
 
