@@ -6,7 +6,6 @@
     <img alt="The Babcock Torch" src="assets/logo/torch_light.svg" width="400">
   </picture>
 </p>
-&nbsp;
 
 <p align="center">
     <a href="https://babcocktorch.com/">https://babcocktorch.com</a>
