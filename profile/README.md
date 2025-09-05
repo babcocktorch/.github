@@ -11,6 +11,8 @@
     <a href="https://babcocktorch.com/">https://babcocktorch.com</a>
 </p>
 
+&nbsp;
+
 # The Babcock Torch
 
 The Babcock Torch is...
