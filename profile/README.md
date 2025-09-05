@@ -9,7 +9,7 @@
 &nbsp;
 
 <p align="center">
-    <a href="https://babcocktorch.com/">The Babcock Torch</a>
+    <a href="https://babcocktorch.com/">https://babcocktorch.com</a>
 </p>
 
 &nbsp;
