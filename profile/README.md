@@ -16,10 +16,12 @@
 
 The Babcock Torch is...
 
-## Our Projects and Suite
+## Our Projects
 
 ### The Babcock Torch
 The University Daily, Est. 2025
+
+## Tentative Projects
 
 ### Com...
 A place for...
