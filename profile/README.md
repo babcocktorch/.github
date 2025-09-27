@@ -1,7 +1,7 @@
 &nbsp;
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/logo/torch_logotype_big_moore_white.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/logo/torch_logotype_engravers_old_eng_white.svg">
     <source media="(prefers-color-scheme: light)" srcset="../assets/logo/torch_logotype_big_moore_gold.svg">
     <img alt="The Babcock Torch" src="assets/logo/torch_light.svg" width="400">
   </picture>
