@@ -41,11 +41,6 @@ The Central University V... Platform
 
 Have ideas? Questions? Want to work together? Get in touch with us!
 
-## People
-
-- Majuyi O. D. Dunmade - [@majuyi](https://github.com/majuyi)
-- Oluwafemi Olatunji - [@codedbyfemi](https://github.com/codedbyfemi)
-
 ---
 
 *The Babcock Torch: The University Daily. Est. 2025*
