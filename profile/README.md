@@ -5,6 +5,7 @@
     <source media="(prefers-color-scheme: light)" srcset="../assets/logo/torch_logotype_osgard_stencil_gold_horizontal.svg">
     <img alt="The Babcock Torch" src="assets/logo/torch_light.svg" height="70">
   </picture>
+    <br>
     <a href="https://babcocktorch.com/">https://babcocktorch.com</a>
 </p>
 
