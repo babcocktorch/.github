@@ -3,19 +3,20 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../assets/logo/torch_logotype_osgard_stencil_white_horizontal.svg">
     <source media="(prefers-color-scheme: light)" srcset="../assets/logo/torch_logotype_osgard_stencil_gold_horizontal.svg">
-    <img alt="The Babcock Torch" src="assets/logo/torch_light.svg" height="60">
+    <img alt="The Babcock Torch" src="assets/logo/torch_light.svg" height="75">
   </picture>
 </p>
 
 <p align="center">
     <a href="https://babcocktorch.com/">https://babcocktorch.com</a>
+    `From /dev, Understanding.`
 </p>
 
 &nbsp;
 
 # The Babcock Torch
 
----
+***
 
 The Babcock Torch is a digital-first publication covering campus news, student innovation, culture, and institutional affairs at Babcock University, Ilishan-Remo, Nigeria. It launched in April 2026 as the university's first independent student media organization.
 
@@ -39,7 +40,7 @@ This GitHub organization hosts the codebases, tooling, and internal systems that
 
 *Repositories may be private during active development.*
 
----
+___
 
 ## Stack
 
@@ -67,7 +68,3 @@ The Babcock Torch operates under a constitutionally entrenched editorial indepen
 
 **Website:** [babcocktorch.com](https://babcocktorch.com)  
 **Email:** [editor@babcocktorch.com](mailto:editor@babcocktorch.com)
-
----
-
-From /dev, Understanding.
